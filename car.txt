@@ -1,0 +1,206 @@
+Welcome to qw
+
+Theater 0 Seat Map
+
+S S S S S S S S S S 
+S S S S S S S S S S 
+S S S S S S S S S S 
+S S S S S S S S S S 
+S S S S S S S S S S 
+S S S S S S S S S S 
+S S S S S S S S S S 
+S S S S V V V V V V 
+V V V 
+
+Theater 1 Seat Map
+
+S S S S S S S S S S 
+S S S S S S S S S S 
+S S S S S S S S S S 
+S S V V V V V V V V 
+
+Theater 2 Seat Map
+
+S S S S S S S S S S 
+S S S S S S S S S S 
+S S S S S S S S S S 
+S S S S S S S S S S 
+S S S S S S S S S S 
+S S S S S S S S V V 
+V V V V V V V V V V 
+V V V V V V V V V V 
+V V V V V V V V V V 
+V V V V V V V 
+
+Ticket Record For Theater0
+
+For Theater 0 Seat Number 34 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 67 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 12 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 64 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 56 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 41 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 60 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 9 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 16 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 1 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 35 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 63 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 44 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 20 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 5 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 10 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 17 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 31 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 58 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 47 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 18 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 0 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 52 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 38 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 40 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 11 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 69 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 30 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 22 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 13 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 49 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 36 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 70 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 14 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 7 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 2 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 8 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 55 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 65 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 72 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 66 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 24 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 27 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 54 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 42 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 3 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 15 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 68 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 61 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 73 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 37 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 51 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 53 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 39 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 29 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 25 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 59 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 43 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 62 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 4 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 26 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 23 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 46 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 33 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 28 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 48 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 21 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 57 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 19 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 6 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 50 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 45 which is GENERAL ADMISSION the price is $11.45
+For Theater 0 Seat Number 71 which is RESERVED the price is $15.26
+For Theater 0 Seat Number 32 which is GENERAL ADMISSION the price is $11.45
+
+Ticket Record For Theater1
+
+For Theater 1 Seat Number 25 which is RESERVED the price is $15.26
+For Theater 1 Seat Number 3 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 13 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 29 which is RESERVED the price is $15.26
+For Theater 1 Seat Number 9 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 4 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 2 which is RESERVED the price is $15.26
+For Theater 1 Seat Number 21 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 0 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 23 which is RESERVED the price is $15.26
+For Theater 1 Seat Number 20 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 15 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 8 which is RESERVED the price is $15.26
+For Theater 1 Seat Number 28 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 19 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 17 which is RESERVED the price is $15.26
+For Theater 1 Seat Number 24 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 10 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 26 which is RESERVED the price is $15.26
+For Theater 1 Seat Number 6 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 16 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 1 which is RESERVED the price is $15.26
+For Theater 1 Seat Number 22 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 31 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 12 which is RESERVED the price is $15.26
+For Theater 1 Seat Number 18 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 5 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 27 which is RESERVED the price is $15.26
+For Theater 1 Seat Number 30 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 7 which is GENERAL ADMISSION the price is $11.45
+For Theater 1 Seat Number 14 which is RESERVED the price is $15.26
+For Theater 1 Seat Number 11 which is GENERAL ADMISSION the price is $11.45
+
+Ticket Record For Theater2
+
+For Theater 2 Seat Number 32 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 11 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 31 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 37 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 19 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 1 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 29 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 56 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 46 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 2 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 33 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 24 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 52 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 34 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 12 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 57 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 26 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 47 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 13 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 17 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 42 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 25 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 15 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 6 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 21 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 53 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 23 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 41 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 45 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 27 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 55 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 22 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 38 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 50 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 35 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 20 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 54 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 43 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 39 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 30 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 49 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 5 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 44 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 51 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 36 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 3 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 8 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 18 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 7 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 14 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 28 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 4 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 40 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 48 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 10 which is RESERVED the price is $15.26
+For Theater 2 Seat Number 16 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 0 which is GENERAL ADMISSION the price is $11.45
+For Theater 2 Seat Number 9 which is RESERVED the price is $15.26

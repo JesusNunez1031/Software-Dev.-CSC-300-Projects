@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A10/A10.iml" filepath="$PROJECT_DIR$/A10/A10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A8/A8.iml" filepath="$PROJECT_DIR$/A8/A8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A9/A9.iml" filepath="$PROJECT_DIR$/A9/A9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSC300Projects.iml" filepath="$PROJECT_DIR$/CSC300Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoinPurseModel/CoinPurseModel.iml" filepath="$PROJECT_DIR$/CoinPurseModel/CoinPurseModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalProject/FinalProject.iml" filepath="$PROJECT_DIR$/FinalProject/FinalProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HospitalSimulation/HospitalSimulation.iml" filepath="$PROJECT_DIR$/HospitalSimulation/HospitalSimulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntegerArrayList/IntegerArrayList.iml" filepath="$PROJECT_DIR$/IntegerArrayList/IntegerArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieHouse/MovieHouse.iml" filepath="$PROJECT_DIR$/MovieHouse/MovieHouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuadrilateralInheritance/QuadrilateralInheritance.iml" filepath="$PROJECT_DIR$/QuadrilateralInheritance/QuadrilateralInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentLottery/StudentLottery.iml" filepath="$PROJECT_DIR$/StudentLottery/StudentLottery.iml" />
+    </modules>
+  </component>
+</project>
